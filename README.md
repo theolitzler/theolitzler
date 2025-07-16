@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo Litzler</h1>
 <h3 align="center">Software engineering student from France, living in Montreal.</h3>
 
-- 🔭 I’m currently working on [F1Bet](https://github.com/theolitzler/f1bet-mern/tree/main)
+- 🔭 I’m currently working on [F1Bet](https://github.com/theolitzler/f1bet-mern/tree/main) and [BuDeals](https://github.com/theolitzler/budeals/tree/main)
 
 - 🌱 I’m currently learning **software engineering at ÉTS (Montreal, QC, CA)**
 
