@@ -13,7 +13,7 @@
 <p align="left">
   ✨ Creating bugs since 2015.<br>
   📚 I'm currently learning The Art of Doing Science and Engineering (by Richard W. Hamming)<br>
-  🎯 Goals: I'm currently working on F1Bet and BuDeals.<br>
+  🎯 Goals: I'm currently working on [F1Bet](https://f1bet-deploy-frontend.onrender.com/) and BuDeals.<br>
   🎲 Fun fact: I know the names of all the Pokemon from the first 7 generations (sorry for the last ).
 </p>
 
